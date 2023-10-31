@@ -5,7 +5,7 @@ In this project, we train a simple cnn network for classification on the MNIST d
 
 ![](mnist_webapp.gif)
 
-To train a fresh model call in terminal
+To train a fresh model, extract files in 'data' folder then call in terminal
 ``` terminal
 python train.py
 ```
